@@ -1,0 +1,48 @@
+TEXTURELINK_NAME_CONST = "Texture link"
+TEXTURELINK_DESC_CONST = "Batch create and link textures to materials."
+TEXTURELINK_WIDTH_CONST = 250
+TEXTURELINK_HEIGHT_CONST = 160
+TEXTURELINK_ICON_CONST = "{}/icons/texture_link.png"
+
+CURVESHADER_NAME_CONST = "Curve Shader"
+CURVESHADER_DESC_CONST = "Assign shaders to curves for visibility in rendering."
+CURVESHADER_WIDTH_CONST = 200
+CURVESHADER_HEIGHT_CONST = 200
+CURVESHADER_ICON_CONST = CURVESHADER_NAME_CONST
+
+
+STANDARDSURFACE_NAME_CONST = "New Material"
+STANDARDSURFACE_DESC_CONST = "Create current renderer's default standard surface material."
+STANDARDSURFACE_WIDTH_CONST = 200
+STANDARDSURFACE_HEIGHT_CONST = 200
+STANDARDSURFACE_ICON_CONST = STANDARDSURFACE_NAME_CONST
+
+MATLINKEXPORT_NAME_CONST = "Export Mat Link"
+MATLINKEXPORT_DESC_CONST = "Export a JSON file containing links from materials to geometry. Use this data with the Auto Material HDA in Houdini."
+MATLINKEXPORT_WIDTH_CONST = 250
+MATLINKEXPORT_HEIGHT_CONST = 200
+MATLINKEXPORT_ICON_CONST = "{}/icons/export_material_link.png"
+
+ASSIGNBYNAME_NAME_CONST = "Assign Mat By Name"
+ASSIGNBYNAME_DESC_CONST = "Assign a material to all objects in selected hierarchies that match the input text."
+ASSIGNBYNAME_WIDTH_CONST = 250
+ASSIGNBYNAME_HEIGHT_CONST = 150
+ASSIGNBYNAME_ICON_CONST = ASSIGNBYNAME_NAME_CONST
+
+TURNTABLE_NAME_CONST = "Turntable"
+TURNTABLE_DESC_CONST = "Create a turntable more efficiently using animated offset groups and presets."
+TURNTABLE_WIDTH_CONST = 220
+TURNTABLE_HEIGHT_CONST = 320
+TURNTABLE_ICON_CONST = TURNTABLE_NAME_CONST
+
+RENDERBALLS_NAME_CONST = "Render Spheres"
+RENDERBALLS_DESC_CONST = "Create and parent a chrome and matte sphere to the selected camera."
+RENDERBALLS_WIDTH_CONST = 200
+RENDERBALLS_HEIGHT_CONST = 200
+RENDERBALLS_ICON_CONST = "{}/icons/lighting_balls.png"
+
+HDRICREATOR_NAME_CONST = "HDRI Creator"
+HDRICREATOR_DESC_CONST = "Save and favourite HDRI paths so you don't have to dig through 15 folders!"
+HDRICREATOR_WIDTH_CONST = 220
+HDRICREATOR_HEIGHT_CONST = 300
+HDRICREATOR_ICON_CONST = HDRICREATOR_NAME_CONST
